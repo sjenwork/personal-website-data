@@ -38,9 +38,9 @@
 ## 聯絡方式
 
 <ul>
-  <li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email Icon" width="16" height="16" style="vertical-align: middle; margin-right: 5px; filter: invert(15%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(95%) contrast(90%);"> <strong>Email:</strong> <a href="mailto:sjenwork@gmail.com">sjenwork@gmail.com</a></li>
-  <li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub Icon" width="16" height="16" style="vertical-align: middle; margin-right: 5px; filter: invert(15%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(95%) contrast(90%);"> <strong>GitHub:</strong> <a href="https://github.com/sjenwork" target="_blank" rel="noopener noreferrer">https://github.com/sjenwork</a></li>
-  <li><img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/globe.svg" alt="Website Icon" width="16" height="16" style="vertical-align: middle; margin-right: 5px; stroke: #333; fill: none; stroke-width: 2px; stroke-linecap: round; stroke-linejoin: round;"> <strong>個人網站:</strong> <a href="https://sjenwork.github.io/" target="_blank" rel="noopener noreferrer">https://sjenwork.github.io/</a></li>
+  <li><i class="fa-solid fa-envelope" style="vertical-align: middle; margin-right: 5px;"></i> <strong>Email:</strong> <a href="mailto:sjenwork@gmail.com">sjenwork@gmail.com</a></li>
+  <li><i class="fa-brands fa-github" style="vertical-align: middle; margin-right: 5px;"></i> <strong>GitHub:</strong> <a href="https://github.com/sjenwork" target="_blank" rel="noopener noreferrer">https://github.com/sjenwork</a></li>
+  <li><i class="fa-solid fa-globe" style="vertical-align: middle; margin-right: 5px;"></i> <strong>個人網站:</strong> <a href="https://sjenwork.github.io/" target="_blank" rel="noopener noreferrer">https://sjenwork.github.io/</a></li>
   <li><img src="https://obsidian.md/images/obsidian-logo-gradient.svg" alt="Obsidian Icon" width="16" height="16" style="vertical-align: middle; margin-right: 5px; filter: invert(15%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(95%) contrast(90%);"> <strong>Obsidian:</strong> <a href="https://publish.obsidian.md/sjenwork/" target="_blank" rel="noopener noreferrer">https://publish.obsidian.md/sjenwork/</a></li>
 </ul>
 
