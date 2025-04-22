@@ -21,26 +21,27 @@
 
 * **資料清理與預處理：** 具備處理缺失值、異常值，以及轉換資料格式的經驗。
 * **統計分析：** 熟悉描述性統計、推論統計，並能運用統計方法進行資料分析。
-* **資料視覺化：** 擅長使用 Matplotlib, Seaborn, Tableau 或 Power BI 等工具將數據轉化為易於理解的圖表。
+* **資料視覺化：** 擅長使用 Matplotlib, Seaborn, Plotly 等工具將數據轉化為易於理解的圖表。
 * **機器學習：** 對監督式學習 (如分類、迴歸)、非監督式學習 (如分群、降維) 有基礎理解與實作經驗。
-* **模型評估與驗證：** 熟悉常見的模型評估指標 (如準確率、精確度、召回率、F1 分數、AUC) 與交叉驗證方法。
 
 ## 對 AI 的興趣與了解
 
 我對人工智慧的快速發展感到非常興奮，尤其是近年來的 LLMs 技術，並積極關注其在各個領域的應用。我對以下 AI 領域特別感興趣：
 
-* **自然語言處理 (NLP):** 例如文本分析、情感分析、機器翻譯等。
 * **機器學習 (Machine Learning):** 探索如何建立和優化預測模型。
 * **深度學習 (Deep Learning):** 了解神經網路的架構與應用。
+* **自然語言處理 (NLP):** 例如文本分析、情感分析等。
 * **檢索增強生成 (Retrieval-Augmented Generation):** 探索如何使用 RAG 技術來提升 LLMs 的效能。
 
-我持續透過線上課程、技術文章和實作專案來學習和提升我在 AI 領域的知識與技能。我渴望能將我的資訊和資料分析專長與 AI 技術結合，為解決實際問題做出貢獻。
+我持續透過網路資源、技術文章和實作專案來學習和提升我在 AI 領域的知識與技能。我希望能將我的創新想法及資訊技術與 AI 技術結合，以提升工作與生活的便利性。
 
 ## 聯絡方式
 
-* **Email:** [sjenwork@gmail.com]
-* **GitHub:** [https://github.com/sjenwork]
-* **個人網站:** [https://sjenwork.github.io/]
-* **Obsidian:** [https://publish.obsidian.md/sjenwork/]
+<ul>
+  <li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email Icon" width="16" height="16" style="vertical-align: middle; margin-right: 5px; filter: invert(15%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(95%) contrast(90%);"> <strong>Email:</strong> <a href="mailto:sjenwork@gmail.com">sjenwork@gmail.com</a></li>
+  <li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub Icon" width="16" height="16" style="vertical-align: middle; margin-right: 5px; filter: invert(15%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(95%) contrast(90%);"> <strong>GitHub:</strong> <a href="https://github.com/sjenwork" target="_blank" rel="noopener noreferrer">https://github.com/sjenwork</a></li>
+  <li><img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/globe.svg" alt="Website Icon" width="16" height="16" style="vertical-align: middle; margin-right: 5px; stroke: #333; fill: none; stroke-width: 2px; stroke-linecap: round; stroke-linejoin: round;"> <strong>個人網站:</strong> <a href="https://sjenwork.github.io/" target="_blank" rel="noopener noreferrer">https://sjenwork.github.io/</a></li>
+  <li><img src="https://obsidian.md/images/obsidian-logo-gradient.svg" alt="Obsidian Icon" width="16" height="16" style="vertical-align: middle; margin-right: 5px; filter: invert(15%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(95%) contrast(90%);"> <strong>Obsidian:</strong> <a href="https://publish.obsidian.md/sjenwork/" target="_blank" rel="noopener noreferrer">https://publish.obsidian.md/sjenwork/</a></li>
+</ul>
 
 ---
