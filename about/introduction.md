@@ -1,7 +1,5 @@
 # [孫既仁]
 
-<img src="https://sjenwork.github.io/images/profile/avatar.jpg" width="200">
-
 ## 關於我
 
 我是一名對資訊技術充滿熱忱，擁有多年的軟體開發經驗，並使用近年來持續進步的人工智慧技術加速開發效率。我熱衷於探索最新的技術趨勢，並將其應用於解決實際問題。
