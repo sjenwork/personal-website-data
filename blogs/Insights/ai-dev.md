@@ -4,7 +4,7 @@
 
 *標籤：LLMs, Gemini, ChatGPT, Claude*
 
-![agent]([blogs/images/agent_coding.png](https://github.com/sjenwork/personal-website-data/blob/main/blogs/images/agent_coding.png?raw=true))
+![agent](https://github.com/sjenwork/personal-website-data/blob/main/blogs/images/agent_coding.png?raw=true)
 
 ## 前言
 

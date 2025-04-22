@@ -4,7 +4,7 @@
 
 *標籤：Agent, RAG*
 
-![agent]([blogs/images/ai-history.png](https://github.com/sjenwork/personal-website-data/blob/main/blogs/images/ai-history.png?raw=true))
+![agent](https://github.com/sjenwork/personal-website-data/blob/main/blogs/images/ai-history.png?raw=true)
 
 此文章記錄了ChatGPT(OpenAI)、Gemini(Google)和Claude(Anthropic)三大語言模型的發展歷史與方向，並涵蓋了其他重要模型與技術突破，特別聚焦於近期AI Agent的發展趨勢。
 
