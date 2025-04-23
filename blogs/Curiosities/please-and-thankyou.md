@@ -1,0 +1,1 @@
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">tens of millions of dollars well spent--you never know</p>&mdash; Sam Altman (@sama) <a href="https://twitter.com/sama/status/1912646035979239430?ref_src=twsrc%5Etfw">April 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
